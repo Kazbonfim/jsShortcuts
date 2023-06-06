@@ -3,6 +3,10 @@ Pequenos sistemas desenvolvidos durante meus estudos de madrugada, no intuito de
 
 • Gerador de Ids - Pode ser utilizado em sistemas maiores para criar um vetor com diversos Ids, que não se repetem e ficam em constante verificação para evitar que, em caso de serem repitidos, receba um retorno de aviso (já existente).
 
+• Desafio de Par ou Ímpar - Um desafio simples, que calcula de forma automática o maior número par presente em uma lista, e o menor número ímpar da mesma lista; pode ser editado a bel prazer pelo utilizador e utilizado para validar testes/comparativos.
+
+• Calculadora de combustível - Um desafio simples, que faz o cálculo de gasolina gasta com base nos combustíveis utilizados por um veículo e a distância a ser percorrida. Vide https://github.com/Kazbonfim/jsShortcuts/blob/main/exercicio5_gasolina.js se quiser um projeto mais completo, e que utiliza o prompt/terminal para realizar as validações.
+
 ##
 MIT License
 
